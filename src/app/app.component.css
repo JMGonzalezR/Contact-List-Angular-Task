@@ -1,0 +1,29 @@
+.example-container{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    margin-right:30px
+}
+
+.contact-list-body{
+    display:flex;
+    margin: auto;
+    
+    
+}
+.contact-list-container{
+    width:50%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+ 
+  .mat-list-item{
+      cursor: pointer;
+      border-bottom: solid #ccc 1px;
+  }
+
+  .contact-button{
+      width: 10em;
+      margin-right: 10px;
+  }
